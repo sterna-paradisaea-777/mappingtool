@@ -20,14 +20,15 @@ Germany & South Africa
 ![amcharts pixelMap (1)](https://user-images.githubusercontent.com/88767205/129479724-2f14611d-9ecd-412b-be4c-c6898f112a1f.png)
 
 ## Plan 
-- Germany and South Africa are in different hemispheres and have very different geographical conditions and climates. Berlin and Pretoria are both capital cities. 
-- therefore, this document will focus on the differences between the two cities in a number of areas, including business, tourism, schools, etc.
+- Germany and South Africa are in different hemispheres and have very different geographical conditions and climates. Berlin and Pretoria are both capital cities. Therefore, this file will focus on the differences between the two cities.
+- Analyze the relationship between accommodation locations and tourist attractions, afterward, locate where is the most convenient place to have accommodation if people are traveling to Berlin or Pretoria.
+
+
 
 ## Workflow
 #### contrast
 
-- **step 1:**
-- Accommodation (appartment, hotel, hostel, motel)
+- **Accommodation** (appartment, hotel, hostel, motel)
 - connections 10, distance 0-1000 meters
 
 **Berlin**
@@ -37,8 +38,8 @@ Germany & South Africa
 ![1629040272(1)](https://user-images.githubusercontent.com/88767205/129483434-03af6ab4-60c0-4d71-902e-6833bbf40b27.jpg)
 
 
-- **step 2**
-- tourism
+
+- **tourism**
 
 **Berlin**
 ![tour](https://user-images.githubusercontent.com/88767205/129483747-3dc62114-9025-49b0-ab26-b2be7edae3b0.jpg)
@@ -52,15 +53,55 @@ connections 15, distance 0-1000 meters
 connections 15, distance 0-3000 meters
 
 
-- **step 3**
-- shopping mall 
 
-- **step 4**
-- historical (building, church, castle, monument)
+- **accommodition & tourism attections 
 
-- **step 5**
-- public trasport stations
+**Berlin**
+![1629044979(1)](https://user-images.githubusercontent.com/88767205/129485496-ecc8e09b-e9c0-4f93-829b-dade4219659f.jpg)
+matches 30
 
+![A-T](https://user-images.githubusercontent.com/88767205/129485111-35071426-b398-438a-a782-2a38be2f078e.jpg)
+distance 500 meters
+
+**pretoria**
+![1629045196(1)](https://user-images.githubusercontent.com/88767205/129485569-d0ac340c-496d-4da1-a010-627c8f2405df.jpg)
+matches 30
+
+![1629044610(1)](https://user-images.githubusercontent.com/88767205/129485355-32ec24ea-2cb9-4084-8cc1-8d4abe10a2a4.jpg)
+distance 1000 meters
+
+
+
+
+
+
+
+
+
+
+- **shopping mall** 
+
+**Berlin**
+
+**pretoria**
+
+
+
+
+- **historical** (building, church, castle, monument)
+
+**Berlin**
+
+**pretoria**
+
+
+
+
+- **public trasport stations**
+
+**Berlin**
+
+**pretoria**
 
 
 
