@@ -8,15 +8,19 @@
 
 
 #### Basic information
-![amcharts pixelMap (5)](https://user-images.githubusercontent.com/88767205/129480930-621e11d3-d14b-4149-a996-5163c78c96bc.png)
 
 Germany & South Africa
+![amcharts pixelMap (5)](https://user-images.githubusercontent.com/88767205/129480930-621e11d3-d14b-4149-a996-5163c78c96bc.png)
+
+
 
 
 *Berlin*
 ![amcharts pixelMap](https://user-images.githubusercontent.com/88767205/129479731-02daf052-8445-44a1-930d-ce4909aa5af8.png)
 
-*Pretori*
+*Pretoria*
+
+The orange part of the map shows Gauteng province of South Africa, Pretoria is located in the northeast of Gauteng province.
 ![amcharts pixelMap (1)](https://user-images.githubusercontent.com/88767205/129479724-2f14611d-9ecd-412b-be4c-c6898f112a1f.png)
 
 ## Plan 
@@ -28,7 +32,7 @@ Germany & South Africa
 ## Workflow
 #### Contrast
 
-**Accommodation** (appartment, hotel, hostel, motel)
+**1. Accommodation** (appartment, hotel, hostel, motel)
 - connections 10, distance 0-1000 meters
 
 *Berlin*
@@ -39,7 +43,7 @@ Germany & South Africa
 
 
 
-**Tourism**
+**2. Tourism**
 
 *Berlin*
 ![tour](https://user-images.githubusercontent.com/88767205/129483747-3dc62114-9025-49b0-ab26-b2be7edae3b0.jpg)
@@ -54,7 +58,7 @@ connections 15, distance 0-3000 meters
 
 
 
-**Accommodition & Tourism attections**
+**3. Accommodition & Tourism attections**
 
 *Berlin*
 ![1629044979(1)](https://user-images.githubusercontent.com/88767205/129485496-ecc8e09b-e9c0-4f93-829b-dade4219659f.jpg)
@@ -73,15 +77,17 @@ distance 1000 meters
 
 #### Summarize
 Indicate on the map the approximate best area to choose a flat or hotel in Berlin Ho Pretoria.
+
 The first map is Berlin.
+
 The second one is Pretoria.
 
 ![2021-08-16_1-01-18](https://user-images.githubusercontent.com/88767205/129486635-4e0e79e7-307f-40f8-ac90-5f2cf0e2b859.jpg)
-
+Based on the above analysis by Grasshopper, it can be seen that the area along the spree river is the most convenient place to live in Berlin for tourists, with a wider choice of hotels and a wide range of tourist attractions. 
 
 
 ![111](https://user-images.githubusercontent.com/88767205/129486972-018b4f8c-d7b3-4b25-956a-7cd268e9eb8e.jpg)
-
+In comparison to Berlin, Pretoria has a smaller choice of hotels. When visiting Pretoria, it is more convenient to choose a place to stay around Pretorius street and Francis baard street. Also, the tourist attractions are more spread out and farther away.
 
 
 #### Other
