@@ -72,17 +72,21 @@ distance 1000 meters
 
 
 #### Summarize
+Indicate on the map the approximate best area to choose a flat or hotel in Berlin Ho Pretoria.
+The first map is Berlin.
+The second one is Pretoria.
+
+![2021-08-16_1-01-18](https://user-images.githubusercontent.com/88767205/129486635-4e0e79e7-307f-40f8-ac90-5f2cf0e2b859.jpg)
 
 
 
+![111](https://user-images.githubusercontent.com/88767205/129486972-018b4f8c-d7b3-4b25-956a-7cd268e9eb8e.jpg)
 
 
 
+#### Other
 
 **shopping mall** 
-
-
-
 
 
 
