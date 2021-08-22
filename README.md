@@ -38,7 +38,7 @@ The orange part of the map shows Gauteng province of South Africa, Pretoria is l
 ![2021-08-22_12-02-56](https://user-images.githubusercontent.com/88767205/130341744-7b1f8dee-d35a-492b-92f1-08a4d9a9fce4.jpg)
 
 *Pretoria*
-![2021-08-22_12-03-39](https://user-images.githubusercontent.com/88767205/130341750-952aa7fd-9bb7-4ee6-ba14-5c21737aa450.jpg)
+![2021-08-22_12-29-23](https://user-images.githubusercontent.com/88767205/130342360-e7414d1d-63fe-41eb-b57c-f8966985ed37.jpg)
 
 
 In general, the information exported for the two cities using the same gh file is very different. Berlin has more places of interest and leisure, and there are attractions to visit within walking distance of wherever you live. However, the attractions in pertoria are concentrated in one area and there are not many convenient places to stay.
@@ -53,9 +53,15 @@ In general, the information exported for the two cities using the same gh file i
 
 *Berlin*
 ![1629040225(1)](https://user-images.githubusercontent.com/88767205/129483414-b23e1f3d-fe8c-4124-815e-444a2dacb254.jpg)
+![2021-08-22_13-36-41](https://user-images.githubusercontent.com/88767205/130343764-0f0dcbff-a1b6-48e4-a32c-4eff8a946575.jpg)
+
 
 *pretoria*
 ![1629040272(1)](https://user-images.githubusercontent.com/88767205/129483434-03af6ab4-60c0-4d71-902e-6833bbf40b27.jpg)
+![2021-08-22_12-40-50](https://user-images.githubusercontent.com/88767205/130342558-aeca22b2-34dd-4861-97a8-09565d8ffea3.jpg)
+
+
+
 
 
 
@@ -63,13 +69,27 @@ In general, the information exported for the two cities using the same gh file i
 
 *Berlin*
 ![tour](https://user-images.githubusercontent.com/88767205/129483747-3dc62114-9025-49b0-ab26-b2be7edae3b0.jpg)
+
+![2021-08-22_13-38-37](https://user-images.githubusercontent.com/88767205/130343810-54fd8277-3d6d-40ba-a523-7e5b8683674e.jpg)
+
 connections 15, distance 0-1000 meters
 
 *pretoria*
 ![1629041738(1)](https://user-images.githubusercontent.com/88767205/129483967-69f84a73-072a-4b3d-9212-034df1bbbe2c.jpg)
+
+
+
+![2021-08-22_12-47-36](https://user-images.githubusercontent.com/88767205/130342693-c84d1a79-b349-4456-81ea-644f488ea11b.jpg)
+
 connections 15, distance 0-1000 meters
 
+
+
 ![1629041857(1)](https://user-images.githubusercontent.com/88767205/129484034-db9ab443-be25-4ae3-aba0-7066bffcd825.jpg)
+
+
+![2021-08-22_12-48-35](https://user-images.githubusercontent.com/88767205/130342699-b8c6a441-ee2c-48d0-b3bb-e7250a7f9185.jpg)
+
 connections 15, distance 0-3000 meters
 
 
@@ -78,6 +98,9 @@ connections 15, distance 0-3000 meters
 
 *Berlin*
 ![1629044979(1)](https://user-images.githubusercontent.com/88767205/129485496-ecc8e09b-e9c0-4f93-829b-dade4219659f.jpg)
+
+
+
 matches 30
 
 ![A-T](https://user-images.githubusercontent.com/88767205/129485111-35071426-b398-438a-a782-2a38be2f078e.jpg)
@@ -85,9 +108,13 @@ distance 500 meters
 
 *pretoria*
 ![1629045196(1)](https://user-images.githubusercontent.com/88767205/129485569-d0ac340c-496d-4da1-a010-627c8f2405df.jpg)
+
+![2021-08-22_12-54-02](https://user-images.githubusercontent.com/88767205/130342783-abf11f49-b47d-4362-8132-685404279a14.jpg)
+
 matches 30
 
 ![1629044610(1)](https://user-images.githubusercontent.com/88767205/129485355-32ec24ea-2cb9-4084-8cc1-8d4abe10a2a4.jpg)
+
 distance 1000 meters
 
 
@@ -105,6 +132,20 @@ Shopping centre within 3000 metres from the hotel.
 
 ![2021-08-22_12-10-00](https://user-images.githubusercontent.com/88767205/130341895-6ae5973e-af32-4308-8565-1ca0f26bbe9e.jpg)
 
+
+
+**5. Leisure**
+
+Blue dots --- travel
+Yellow dots --- accommodation
+Green textures --- leisure
+
+*Berlin*
+![2021-08-22_13-30-13](https://user-images.githubusercontent.com/88767205/130343608-ea28e2c6-1ec2-463d-920d-5fcc4628e46e.jpg)
+
+
+*pretoria*
+![2021-08-22_13-02-42](https://user-images.githubusercontent.com/88767205/130343027-491c5da9-505f-45db-a824-0be85adabcf4.jpg)
 
 
 
@@ -127,14 +168,8 @@ In comparison to Berlin, Pretoria has a smaller choice of hotels. When visiting 
 
 #### Other
 
+In the future more elements will be added and attempts will be made to find areas of concentration or intersection between the different types.
 
-
-**historical** (building, church, castle, monument)
-
-
-
-
-**public trasport stations**
 
 
 
