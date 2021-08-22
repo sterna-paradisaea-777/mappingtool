@@ -48,7 +48,7 @@ In general, the information exported for the two cities using the same gh file i
 
 #### Contrast
 
-**1. Accommodation** (appartment, hotel, hostel, motel)
+**1. Accommodation** (apartment, hotel, hostel, motel)
 - connections 10, distance 0-1000 meters
 
 *Berlin*
@@ -94,7 +94,7 @@ connections 15, distance 0-3000 meters
 
 
 
-**3. Accommodition & Tourism attections**
+**3. Accommodation & Tourism attractions**
 
 *Berlin*
 ![1629044979(1)](https://user-images.githubusercontent.com/88767205/129485496-ecc8e09b-e9c0-4f93-829b-dade4219659f.jpg)
@@ -119,11 +119,12 @@ matches 30
 
 ![1629044610(1)](https://user-images.githubusercontent.com/88767205/129485355-32ec24ea-2cb9-4084-8cc1-8d4abe10a2a4.jpg)
 
+
 distance 1000 meters
 
 
 **4. shopping mall** 
-Shopping centre within 3000 metres from the hotel.
+Shopping center within 3000 meters from the hotel.
 
 
 *Berlin*
@@ -156,7 +157,7 @@ Green textures --- leisure
 
 
 #### Summarize
-Indicate on the map the approximate best area to choose a flat or hotel in Berlin Ho Pretoria.
+Indicate on the map the approximate best area to choose a flat or hotel in Berlin or Pretoria.
 
 The first map is Berlin.
 
