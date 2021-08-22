@@ -30,6 +30,22 @@ The orange part of the map shows Gauteng province of South Africa, Pretoria is l
 
 
 ## Workflow
+
+
+
+*Berlin*
+
+![2021-08-22_12-02-56](https://user-images.githubusercontent.com/88767205/130341744-7b1f8dee-d35a-492b-92f1-08a4d9a9fce4.jpg)
+
+*Pretoria*
+![2021-08-22_12-03-39](https://user-images.githubusercontent.com/88767205/130341750-952aa7fd-9bb7-4ee6-ba14-5c21737aa450.jpg)
+
+
+In general, the information exported for the two cities using the same gh file is very different. Berlin has more places of interest and leisure, and there are attractions to visit within walking distance of wherever you live. However, the attractions in pertoria are concentrated in one area and there are not many convenient places to stay.
+
+
+
+
 #### Contrast
 
 **1. Accommodation** (appartment, hotel, hostel, motel)
@@ -75,6 +91,25 @@ matches 30
 distance 1000 meters
 
 
+**4. shopping mall** 
+Shopping centre within 3000 metres from the hotel.
+
+
+*Berlin*
+
+![2021-08-22_12-14-46](https://user-images.githubusercontent.com/88767205/130341957-e68b8343-d1b3-426e-b59e-c248374fcffc.jpg)
+
+
+
+*pretoria*
+
+![2021-08-22_12-10-00](https://user-images.githubusercontent.com/88767205/130341895-6ae5973e-af32-4308-8565-1ca0f26bbe9e.jpg)
+
+
+
+
+
+
 #### Summarize
 Indicate on the map the approximate best area to choose a flat or hotel in Berlin Ho Pretoria.
 
@@ -91,8 +126,6 @@ In comparison to Berlin, Pretoria has a smaller choice of hotels. When visiting 
 
 
 #### Other
-
-**shopping mall** 
 
 
 
