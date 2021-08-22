@@ -56,7 +56,7 @@ In general, the information exported for the two cities using the same gh file i
 ![2021-08-22_13-36-41](https://user-images.githubusercontent.com/88767205/130343764-0f0dcbff-a1b6-48e4-a32c-4eff8a946575.jpg)
 
 
-*pretoria*
+*Pretoria*
 ![1629040272(1)](https://user-images.githubusercontent.com/88767205/129483434-03af6ab4-60c0-4d71-902e-6833bbf40b27.jpg)
 ![2021-08-22_12-40-50](https://user-images.githubusercontent.com/88767205/130342558-aeca22b2-34dd-4861-97a8-09565d8ffea3.jpg)
 
@@ -74,7 +74,7 @@ In general, the information exported for the two cities using the same gh file i
 
 connections 15, distance 0-1000 meters
 
-*pretoria*
+*Pretoria*
 ![1629041738(1)](https://user-images.githubusercontent.com/88767205/129483967-69f84a73-072a-4b3d-9212-034df1bbbe2c.jpg)
 
 
@@ -110,7 +110,7 @@ matches 30
 
 distance 500 meters
 
-*pretoria*
+*Pretoria*
 ![1629045196(1)](https://user-images.githubusercontent.com/88767205/129485569-d0ac340c-496d-4da1-a010-627c8f2405df.jpg)
 
 ![2021-08-22_12-54-02](https://user-images.githubusercontent.com/88767205/130342783-abf11f49-b47d-4362-8132-685404279a14.jpg)
@@ -132,7 +132,7 @@ Shopping centre within 3000 metres from the hotel.
 
 
 
-*pretoria*
+*Pretoria*
 
 ![2021-08-22_12-10-00](https://user-images.githubusercontent.com/88767205/130341895-6ae5973e-af32-4308-8565-1ca0f26bbe9e.jpg)
 
@@ -148,7 +148,7 @@ Green textures --- leisure
 ![2021-08-22_13-30-13](https://user-images.githubusercontent.com/88767205/130343608-ea28e2c6-1ec2-463d-920d-5fcc4628e46e.jpg)
 
 
-*pretoria*
+*Pretoria*
 ![2021-08-22_13-02-42](https://user-images.githubusercontent.com/88767205/130343027-491c5da9-505f-45db-a824-0be85adabcf4.jpg)
 
 
