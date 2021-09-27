@@ -1,3 +1,12 @@
+
+## New README and RELEASES (Beta) , please click on this page, thanks.
+https://github.com/sterna-paradisaea-777/Beta-Milestone
+*******
+
+
+
+
+
 # mappingtool
 
 
